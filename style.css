@@ -2799,6 +2799,7 @@ details p {border-top: 1px solid var(--color-shadow); margin: 5px !important; }
   font-size: 10px;
   letter-spacing: .5px;
   color: var(--mode-text);
+  margin-right: 30px;
 }
 
 .profile-field {
@@ -2859,7 +2860,7 @@ details p {border-top: 1px solid var(--color-shadow); margin: 5px !important; }
   font-size: 8px;
   border-radius: 3px;
   text-align: center;
-  width: 119px;
+  width: 115px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -2916,6 +2917,7 @@ details p {border-top: 1px solid var(--color-shadow); margin: 5px !important; }
   align-items: flex-start;
   justify-content: flex-end;
   column-gap: 5px;
+  margin-right: 30px;
 }
 
 .profile-accounts a {
