@@ -298,7 +298,8 @@ button#theme-toggler:before {
 .board-box {
   background: var(--mode-cont);
   padding: 10px;
-  width: 100%;
+  width: 22.3%;
+  flex-shrink: 0;
 }
 
 .board-link {
