@@ -764,13 +764,13 @@ a.generic-icon:hover i {
   padding-top: 10px;
 }
 
-.board-school a:before {
+/*.board-school a:before {
   content: '\f2f8';
   color: var(--color-logged);
   font: var(--fa-font-duotone);
   font-size: 8px;
   text-shadow: 2px 2px var(--mode-base);
-}
+}*/
 
 .board-influence {
   display: flex;
