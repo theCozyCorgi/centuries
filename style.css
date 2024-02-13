@@ -731,6 +731,7 @@ a.generic-icon:hover i {
   text-transform: uppercase;
   font-family: var(--font-general);
   letter-spacing: .5px;
+  margin-top: 5px;
 }
 
 .clock-gry {background: url(https://i.imgur.com/5RCQics.png); background-color: var(--gr-gry) !important;}
