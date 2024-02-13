@@ -734,11 +734,6 @@ a.generic-icon:hover i {
   margin-top: 5px;
 }
 
-.clock-gry {background: url(https://i.imgur.com/5RCQics.png); background-color: var(--gr-gry) !important;}
-.clock-huffle {background: url(https://i.imgur.com/BbaQHLR.png); background-color: var(--gr-huffie) !important;}
-.clock-raven {background: url(https://i.imgur.com/ERoZHzN.png); background-color: var(--gr-raven) !important;}
-.clock-sly {background: url(https://i.imgur.com/xrxbFYd.png); background-color: var(--gr-sly) !important;}
-
 .board-school {
   line-height: 10px;
   display: flex;
