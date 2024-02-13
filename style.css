@@ -702,7 +702,7 @@ a.generic-icon:hover i {
   column-gap: 2px;
   justify-content: stretch;
   flex-shrink: 0;
-  height: 75%;
+  height: 80%;
 }
 
 .board-clock span {
