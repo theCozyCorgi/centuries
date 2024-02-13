@@ -707,7 +707,6 @@ a.generic-icon:hover i {
 
 .board-clock span {
   width: 100%;
-  background-size: 105px;
   background-position: center;
   background-color: var(--color-emphasis);
   background-blend-mode: hard-light;
