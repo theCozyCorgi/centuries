@@ -1658,7 +1658,6 @@ h5 {
   letter-spacing: 1px;
   color: var(--color-emphasis);
   position: relative;
-  border-top: 2px solid var(--color-strong);
   margin: 25px 0;
   margin-bottom: 35px;
 }
