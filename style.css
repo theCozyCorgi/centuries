@@ -199,14 +199,14 @@ button#theme-toggler {
 button#theme-toggler:before {
   font-size: 8px;
   color: var(--color-emphasis);
-  content: "cambiar a modo claro";
+  content: "lumos: cambiar a modo claro";
   font-weight: bold;
   letter-spacing: 0.5px;
   font-family: var(--font-general);
 }
 
 .light-mode button#theme-toggler:before {
-  content: "cambiar a modo oscuro";
+  content: "nox: cambiar a modo oscuro";
 }
 
 /* top */
