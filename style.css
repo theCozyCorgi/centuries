@@ -709,7 +709,7 @@ a.generic-icon:hover i {
   width: 100%;
   background-position: center;
   background-color: var(--color-emphasis);
-  background-blend-mode: multiply;
+  background-blend-mode: hard-light;
   display: flex;
   align-items: center;
   justify-content: center;
