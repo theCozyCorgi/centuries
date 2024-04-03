@@ -2019,7 +2019,7 @@ a.topictitle:hover {
 .post-actions a:hover {color: var(--color-clear); text-shadow: 1px 1px var(--color-strong); }
 .content strong, .content b  {color: var(--post-user); }
 .content u {text-decoration: none; color: var(--color-strong); font-weight: bold; border-bottom: 2px solid var(--post-user); }
-.content i {color: var(--color-strong); }
+.content i { }
 .content a {color: var(--color-emphasis); }
 .content strike {text-decoration-style: wavy; text-decoration-color: var(--color-strong); }
 .fa-ul {list-style-type: none !important; }
