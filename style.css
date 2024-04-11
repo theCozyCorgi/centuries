@@ -2269,6 +2269,9 @@ a.topictitle:hover {
   border: 1px solid var(--mode-border);
   line-height: 9px;
   border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
 }
 
 .poster-attributes {width: 100%; margin-right: 10px; }
@@ -2276,6 +2279,13 @@ a.topictitle:hover {
 .poster-race:before {content: 'especie'}
 .poster-ability:before {content: 'habilidad'}
 .poster-talent:before {content: 'especialidad'}
+.poster-talent em {font-style: normal;}
+
+.poster-talent > span {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
 
 .poster-stats {
   display: flex;
