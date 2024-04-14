@@ -2687,7 +2687,7 @@ p {
   margin: 0 !important;
 }
 
-details p {border-top: 1px solid var(--color-shadow); margin: 5px !important; }
+details > p {border-top: 1px solid var(--color-shadow); margin: 5px !important; }
 .content ul, .content ol {margin: 0 !important; margin-left: 15px !important; }
 
 .basic-table > i {
