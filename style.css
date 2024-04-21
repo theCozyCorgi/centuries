@@ -2837,11 +2837,12 @@ details > p {border-top: 1px solid var(--color-shadow); margin: 5px !important; 
   text-transform: initial;
   font-size: 12px;
   line-height: 15px;
-  font-family: var(--font-second);
-  letter-spacing: 1px;
+  font-family: var(--font-general);
+  letter-spacing: 0px;
   color: var(--group);
   overflow: hidden;
   margin-bottom: 15px;
+  font-weight: bold;
 }
 
 .profile-performance {
