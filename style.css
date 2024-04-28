@@ -2745,6 +2745,7 @@ details > p {border-top: 1px solid var(--color-shadow); margin: 5px !important; 
   color: var(--mode-text);
   letter-spacing: 1px;
   justify-content: unset;
+  flex-wrap: wrap;
 }
 
 .profile-info span {
