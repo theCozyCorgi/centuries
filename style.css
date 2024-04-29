@@ -5501,7 +5501,7 @@ details > p {padding: 10px 0;}
 .registers a {color: var(--mode-text) !important;}
 .registers strong {color: var(--mode-text) !important;}
 .latest-topic > a {width: 170px !important;}
-.preview {--post-user: var(--color-strong);}
+#preview {--post-user: var(--color-logged);}
 
 .basic-content blockquote {
   background: var(--mode-cont);
