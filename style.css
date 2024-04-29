@@ -5490,6 +5490,14 @@ details > p {padding: 10px 0;}
   text-align: left;
 }
 
+.c-apcolumnas {
+  text-transform: uppercase;
+  font-size: 9px;
+  line-height: 14px;
+  column-count: 4;
+  font-weight: bold;
+}
+
 .registers a {color: var(--mode-text) !important;}
 .registers strong {color: var(--mode-text) !important;}
 .latest-topic > a {width: 170px !important;}
