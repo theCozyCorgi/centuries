@@ -5300,7 +5300,7 @@ details > p {padding: 10px 0;}
 
 .dice-header {display: none; }
 .dice-roll.roll-ataque:before {content: '\f71d';}
-.dice-roll.roll-defense:before {content: '\f132';}
+.dice-roll.roll-defensa:before {content: '\f132';}
 .dice-roll.roll-bosque-prohibido:before {content: '\f724';}
 .dice-roll.roll-lanza-un-galeon:before {content: '\e3fc';}
 .dice-roll.roll-rompedor-de-normas:before {content: '\e414';}
