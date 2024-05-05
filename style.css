@@ -1609,7 +1609,7 @@ input[type="checkbox"][disabled] {
 
 .pagination > span > * {
   background: var(--mode-base);
-  padding: 10px 15px !important;
+  padding: 10px !important;
   border: 1px solid var(--color-emphasis) !important;
   color: var(--color-emphasis);
   margin: 0 !important;
