@@ -5503,7 +5503,10 @@ details > p {padding: 10px 0;}
 .registers strong {color: var(--mode-text) !important;}
 .latest-topic > a {width: 170px !important;}
 #preview {--post-user: var(--color-logged);}
-.c-columnas .c-colcensos {text-align: left !important; }
+.c-colcensos a {
+  font-weight: bolder;
+  color: var(--mode-text);
+}
 
 .basic-content blockquote {
   background: var(--mode-cont);
