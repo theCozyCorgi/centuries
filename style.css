@@ -5284,6 +5284,7 @@ details > p {padding: 10px 0;}
   align-items: center;
   justify-content: stretch;
   gap: 5px;
+  flex-wrap: wrap;
 }
 
 .roll-result {
