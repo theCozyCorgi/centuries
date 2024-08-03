@@ -3937,6 +3937,7 @@ label[for="autologin"] {display: flex; align-items: center; column-gap: 5px; }
 #fa_toolbar #fa_right #notif_list li a.delete {background: none !important; }
 #fa_toolbar #fa_right #notif_list li a.delete:hover {text-decoration: none !important;}
 #fa_toolbar #fa_right #notif_list li.see_all a { color: var(--color-emphasis); }
+#fa_toolbar #fa_right.notification #notif_list {position: fixed;}
 
 #fa_toolbar #fa_right #notif_list li a.delete:after {
   font: var(--fa-font-solid);
