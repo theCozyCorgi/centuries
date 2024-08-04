@@ -5517,3 +5517,6 @@ details > p {padding: 10px 0;}
   background: var(--mode-cont);
   margin: 10px;
 }
+
+/* examenes */
+.take-test {display: none; }
