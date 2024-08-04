@@ -5313,6 +5313,7 @@ details > p {padding: 10px 0;}
 .dice-roll.roll-salud:before {content: '\f21e';}
 .dice-roll.roll-peeves:before {content: '\e31b';}
 .dice-roll.roll-buscador:before {content: '\f458';}
+.dice-roll.roll-examen:before {content: '\f737';}
 
 .plot-do {
   font-size: 9px;
